@@ -18,7 +18,7 @@ a:hover {
 
 .menu-image {
     position: relative;
-    z-index: 1;
+    z-index: 0;
 }
 
 .menu-item-left {
